@@ -9,7 +9,7 @@ function App(){
   let [logo,setLogo] = useState('ReactBlog');
   let [따봉, 따봉변경] = useState(0);
 
-  //
+  ////
   // let num = [1,2];
   // let a = num[0];
   // let c = num[1];
